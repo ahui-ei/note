@@ -33,3 +33,23 @@ n.假期
 vacant : adj. 空闲的，空缺的（职位），无神呆滞的（sb.）
 ```
 
+#### Dismiss
+
+```
+（老板）解雇（== fire、sack、pink slip）、（开会）解散、不考虑，轻视（dismiss A as B）、摈弃、（法庭）驳回
+消除（疑问）
+mission : 使命、派遣    missile : 导弹、发射物
+```
+
+#### Pedestrian
+
+```
+n. 行人、步行者 ;adj. 行人的、无趣的、
+```
+
+#### Express
+
+```
+v. 表达; adj. 明确的、快速的; n. 快车、快递
+```
+
